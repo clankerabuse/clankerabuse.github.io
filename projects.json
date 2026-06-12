@@ -1,17 +1,17 @@
 [
   {
-    "name": "gramular",
-    "html_url": "https://github.com/clankerabuse/gramular",
-    "description": "Open-source Bring-Your-Own-Key grammar checker and text rewriter.",
-    "imageUrl": "https://raw.githubusercontent.com/clankerabuse/gramular/main/logo.svg",
-    "updated_at": "2026-06-08T16:55:43Z"
-  },
-  {
     "name": "soybrary",
     "html_url": "https://github.com/clankerabuse/soybrary",
     "description": "A scraper and WebUI for creating and browsing your own local Soyjak library.",
     "imageUrl": "https://raw.githubusercontent.com/clankerabuse/soybrary/main/preview%20soybrary.png",
-    "updated_at": "2026-06-08T16:55:35Z"
+    "updated_at": "2026-06-11T15:09:25Z"
+  },
+  {
+    "name": "gramular",
+    "html_url": "https://github.com/clankerabuse/gramular",
+    "description": "Open-source Bring-Your-Own-Key grammar checker and text rewriter.",
+    "imageUrl": "https://raw.githubusercontent.com/clankerabuse/gramular/main/logo.svg",
+    "updated_at": "2026-06-11T14:48:03Z"
   },
   {
     "name": "speechskin",
