@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clankerabuse.github.io/sitemap.xml
